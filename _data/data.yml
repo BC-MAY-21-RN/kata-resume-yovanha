@@ -52,7 +52,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
+  summary:
 Software Engineering Student passionate IT learner in order to expand and share my knowledge, improve my skills and being an outstanding student. 
 Enjoy teamwork!, active participation, high adaptibility and willing to learn new things.
 
@@ -106,7 +106,7 @@ skills:
 
     - name: Adobe Photoshop / Illustrator
       level: 100%
-      
+
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
