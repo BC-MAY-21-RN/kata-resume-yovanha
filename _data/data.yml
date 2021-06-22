@@ -70,15 +70,10 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 
 experiences:
-  - role: Senior Software Engineer
-    time: MAY 2021 - current
-    company: MagmaLabs, Colima
+  - role:
+    time:
+    company:
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
