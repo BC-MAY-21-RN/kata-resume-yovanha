@@ -55,18 +55,21 @@ educationcomplete:
   - degree: Bachelor Degree Software Engineering
     university: Universidad de Colima
     time: 2019 - current
+    details: |
 
   - degree: React Native Mobile Developer Bootcamp
     university: BrightCoders Academy
     time: MAY 2021 - current   
-
+    details: |
+    
   - degree: Azure Certification Bootcamp
     university: Innovacción Virtual Microsoft 
     time: MAY 2021 - current
+    details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 
-# experiences:
+experiences:
 #  - role: Senior Software Engineer
 #    time: MAY 2021 - current
 #    company: MagmaLabs, Colima
