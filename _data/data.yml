@@ -14,9 +14,8 @@ sidebar:
   # Actualiza tus datos de contacto
   email: yovfajardo@gmail.com
   phone: 3121999609
-  linkedin: http://www.linkedin.com/in/yafbmx
+  linkedin: http://www.linkedin.com/in/yafbmx 
   github: https://github.com/yovanha 
-  location: Colima, Mexico
   
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -46,33 +45,37 @@ sidebar:
     - item: Commitment and Deliver On Time
       link: # dejar en blanco
 
-    - item: Time Management
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: Software Engineering Student passionate IT learner in order to expand and share my knowledge, improve my skills and being an outstanding student. Enjoy teamwork!, active participation, high adaptibility and willing to learn new things.
+  summary: Software Engineering Student passionate IT learner in order to expand and share my knowledge, improve my skills and being an outstanding student. 
+  summary: Enjoy teamwork!, active participation, high adaptibility and willing to learn new things.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
 
   - degree: Bachelor Degree Software Engineering
     university: Universidad de Colima
-    time: 2019 - current      
+    time: 2019 - current
+    details: Last semester GPI. 9.64/10
+    details: Current semester. 4th
+
+    - degree: React Native Mobile Developer Bootcamp
+    university: BrightCoders Academy | MagmaLabs
+    time: MAY 2021 - current   
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+# experiences:
+#  - role: Senior Software Engineer
+#    time: MAY 2021 - current
+#    company: MagmaLabs, Colima
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -80,6 +83,7 @@ experiences:
 # 60% para Competent
 # 80% para Proficient
 # 100% para Expert
+
 skills:
   title: Technical Skills # NO MODIFICAR
 
@@ -91,16 +95,16 @@ skills:
       level: 40%
     
     - name: C#
-      level: 60%
+      level: 50%
 
     - name: JavaScript
-      level: 70%
+      level: 50%
 
     - name: Figma
-      level: 80%
+      level: 60%
 
     - name: HTML/CSS
-      level: 90%
+      level: 80%
 
     - name: Adobe Photoshop / Illustrator
       level: 100%
