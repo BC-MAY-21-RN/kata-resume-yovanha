@@ -58,11 +58,15 @@ educationcomplete:
     university: Universidad de Colima
     time: 2019 - current
     details: Last semester GPI. 9.64/10
-    details: Current semester. 4th
+    Current semester. 4th
 
     - degree: React Native Mobile Developer Bootcamp
-    university: BrightCoders Academy | MagmaLabs
+    university: BrightCoders Academy
     time: MAY 2021 - current   
+
+    - degree: Azure Certification Bootcamp
+    university: Innovacción Virtual Microsoft 
+    time: MAY 2021 - current
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 
