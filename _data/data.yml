@@ -56,24 +56,19 @@ educationcomplete:
     university: Universidad de Colima
     time: 2019 - current
     details: |
-
-  - degree: React Native Mobile Developer Bootcamp
-    university: BrightCoders Academy
-    time: MAY 2021 - current   
-    details: |
     
   - degree: Azure Certification Bootcamp
     university: Innovacción Virtual Microsoft 
-    time: MAY 2021 - current
-    details: |
+    time: MAY 2021 - AUG 2021
+    details: Learn the fundamentals terms and services for the cloud with the use of technologies such as internet of things, artificial intelligence, computer security and cloud computing for the industry with Microsoft technologies.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 
 experiences:
-  - role:
-    time:
-    company:
-    details: |
+  - role: React Native Mobile Developer
+    time: MAY 2021 - SEP 2021
+    company: BrightCoders Academy
+    details: I have worked on creating a mobile app for dogs adoption using React Native, working on the backend saving the information in Firebase, and using styledComponents for the design. 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -86,22 +81,31 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: React
+      level: 70%
+
     - name: React Native
-      level: 30%
-
-    - name: SQL
-      level: 40%
-    
-    - name: C#
-      level: 50%
-
-    - name: JavaScript
-      level: 50%
-
-    - name: Figma
-      level: 60%
+      level: 75%
 
     - name: HTML/CSS
+      level: 85%
+
+    - name: JavaScript
+      level: 85%
+
+    - name: C#
+      level: 60%
+
+    - name: SQL
+      level: 60%
+
+    - name: Firebase
+      level: 80%
+
+    - name: Git/GitHub
+      level: 75%
+
+    - name: Figma
       level: 80%
 
     - name: Adobe Photoshop / Illustrator
